@@ -1,0 +1,16 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fdfbf2; /* Light cream background */
+  padding: 24px;
+
+  /* 3. USE YOUR GOOGLE FONT HERE
+    This uses the font you linked in index.html.
+  */
+  font-family: "Momo Signature", cursive;
+}
